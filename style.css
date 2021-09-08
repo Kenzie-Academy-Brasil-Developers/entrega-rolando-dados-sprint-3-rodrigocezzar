@@ -1,0 +1,28 @@
+#body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo  {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+#mensagem {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.grafic_info {
+  background-color: blue;
+  height: 20px;
+}
